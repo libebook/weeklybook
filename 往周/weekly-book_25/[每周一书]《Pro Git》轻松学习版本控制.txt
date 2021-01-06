@@ -1,0 +1,5 @@
+[每周一书]《Pro Git》轻松学习版本控制
+
+本书涵盖了 Git 的基础用法、分支特性、搭建和配置 Git 服务器、分布式工作流程、GitHub 的使用方法、Git 工具、Git 内部原理等各个方面内容。
+
+文章链接：http://kindlefere.com/post/333.html
